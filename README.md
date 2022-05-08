@@ -1,0 +1,2 @@
+# 559_nft_marketplace
+In this project we are building a NFT marketplace for trading where one can create his/her own unique NFT. Digital artists and content creators can use our platform to mint NFTs, create custom marketplaces and NFT collections, set fees on their tokens, and create auctions to sell them, considering Ethereum as currency . This unique “tokens” one can buy , sell and trade with each other on our marketplace . The platform is a decentralized, peer-to-peer exchange that enables users to transact with one another directly in a trustless manner.
