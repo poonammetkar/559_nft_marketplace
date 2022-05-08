@@ -1,2 +1,28 @@
+# Team ToTheMoon
 # 559_nft_marketplace
-In this project we are building a NFT marketplace for trading where one can create his/her own unique NFT. Digital artists and content creators can use our platform to mint NFTs, create custom marketplaces and NFT collections, set fees on their tokens, and create auctions to sell them, considering Ethereum as currency . This unique “tokens” one can buy , sell and trade with each other on our marketplace . The platform is a decentralized, peer-to-peer exchange that enables users to transact with one another directly in a trustless manner.
+
+CPSC 559 - Advance Blockchain Technology
+
+Mid Term Project
+
+By:
+
+Trisha Parikh(885965400) - trisha16@csu.fullerton.edu
+
+Poonam Metkar(885870899) - poonammetkar@csu.fullerton.edu
+
+Nitish Lele(885897850) -nitishlele@csu.fullerton.edu
+
+Ayush bhardwaj (885866178) - ayush@csu.fullerton.edu
+
+**Additional Work**
+- Updated Frontend UI
+
+
+
+
+
+**Project URL**
+https://github.com/trisha16/ToTheMoon.git
+
+**How to run the Project?**
