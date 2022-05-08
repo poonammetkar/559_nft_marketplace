@@ -23,7 +23,7 @@ Ayush bhardwaj (885866178) - ayush@csu.fullerton.edu
 
 
 **Project URL**
-https://github.com/trisha16/ToTheMoon.git
+https://github.com/poonammetkar/559_nft_marketplace
 
 # How to run the Project?
 **Inital Requirements**
