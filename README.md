@@ -28,7 +28,9 @@ https://github.com/poonammetkar/559_nft_marketplace
 **Inital Requirements**
 - Install NodeJS, should work with any node version below 16.5.0
 - Install Hardhat
+
 **Setting UP**
+
 **1. Clone/Download the repository**
 
 **2. Install the requirements**
