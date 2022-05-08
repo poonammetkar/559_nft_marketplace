@@ -22,8 +22,8 @@ Ayush bhardwaj (885866178) - ayush@csu.fullerton.edu
 
 
 # Project URL
-https://github.com/poonammetkar/559_nft_marketplace
-
+OUR WORK : https://github.com/poonammetkar/559_nft_marketplace
+ORIGINAL REPO: https://github.com/dappuniversity/nft_marketplace
 # How to run the Project?
 **Inital Requirements**
 - Install NodeJS, should work with any node version below 16.5.0
