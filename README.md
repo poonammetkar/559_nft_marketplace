@@ -1,10 +1,10 @@
-# Team ToTheMoon
 
-CPSC 559 - Advance Blockchain Technology
+
+# CPSC 559 - Advance Blockchain Technology
 
 **Final Project on NFT MARKETPLACE**
 
-By:
+# Team Members:
 
 Trisha Parikh(885965400) - trisha16@csu.fullerton.edu
 
@@ -14,14 +14,14 @@ Nitish Lele(885897850) -nitishlele@csu.fullerton.edu
 
 Ayush bhardwaj (885866178) - ayush@csu.fullerton.edu
 
-**Additional Work**
+# Additional Work**
 - Updated Frontend UI
 
 
 
 
 
-**Project URL**
+# Project URL**
 https://github.com/poonammetkar/559_nft_marketplace
 
 # How to run the Project?
