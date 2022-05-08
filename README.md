@@ -1,9 +1,8 @@
 # Team ToTheMoon
-# 559_nft_marketplace
 
 CPSC 559 - Advance Blockchain Technology
 
-Mid Term Project
+**Final Project on NFT MARKETPLACE**
 
 By:
 
