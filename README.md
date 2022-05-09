@@ -5,7 +5,7 @@
 **Final Project on NFT MARKETPLACE**
 
 # Team Members:
-```
+
 Nitish Lele    (885897850) -  nitishlele@csu.fullerton.edu
 
 Ayush Bhardwaj (885866178) -  ayush@csu.fullerton.edu
@@ -14,7 +14,7 @@ Poonam Metkar  (885870899) -  poonammetkar@csu.fullerton.edu
 
 Trisha Parikh  (885965400) -  trisha16@csu.fullerton.edu
 
-```
+
 
 # Additional Work
 - Updated Frontend UI
