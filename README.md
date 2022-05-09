@@ -25,8 +25,9 @@ Trisha Parikh   (885965400)  -    trisha16@csu.fullerton.edu
 
 
 # Project URL
-OUR WORK : [https://github.com/poonammetkar/559_nft_marketplace]
+OUR WORK        : [https://github.com/poonammetkar/559_nft_marketplace]
 
+Original Project: https://github.com/dappuniversity/nft_marketplace
 
 # How to run the Project?
 **Inital Requirements**
