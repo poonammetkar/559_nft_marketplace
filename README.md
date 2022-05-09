@@ -17,8 +17,7 @@ Trisha Parikh  (885965400) -  trisha16@csu.fullerton.edu
 
 
 # Additional Work
-- Updated Frontend UI
-- Added music player for music nfts. 
+- Updated Frontend UI 
 
 
 
