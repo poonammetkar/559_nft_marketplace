@@ -6,18 +6,19 @@
 
 # Team Members:
 ```
-Nitish Lele(885897850) -nitishlele@csu.fullerton.edu
+Nitish Lele    (885897850) -  nitishlele@csu.fullerton.edu
 
-Ayush Bhardwaj (885866178) - ayush@csu.fullerton.edu
+Ayush Bhardwaj (885866178) -  ayush@csu.fullerton.edu
 
-Poonam Metkar(885870899) - poonammetkar@csu.fullerton.edu
+Poonam Metkar  (885870899) -  poonammetkar@csu.fullerton.edu
 
-Trisha Parikh(885965400) - trisha16@csu.fullerton.edu
+Trisha Parikh  (885965400) -  trisha16@csu.fullerton.edu
 
 ```
 
 # Additional Work
 - Updated Frontend UI
+- Added music player for music nfts. 
 
 
 
@@ -26,7 +27,7 @@ Trisha Parikh(885965400) - trisha16@csu.fullerton.edu
 # Project URL
 OUR WORK : [https://github.com/poonammetkar/559_nft_marketplace]
 
-ORIGINAL REPO: [https://github.com/dappuniversity/nft_marketplace]
+
 # How to run the Project?
 **Inital Requirements**
 - Install NodeJS, should work with any node version below 16.5.0
