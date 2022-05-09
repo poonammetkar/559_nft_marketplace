@@ -1,6 +1,10 @@
+import {
+  Link
+} from "react-router-dom";
 import { useState, useEffect } from 'react'
-import { ethers } from "ethers"
-import { Row, Col, Card, Button } from 'react-bootstrap'
+import { ethers } from "ethers";
+import { Row, Col, Card, Button,  } from 'react-bootstrap';
+import Container from 'react-bootstrap/Container';
 
 const Home = ({ marketplace, nft }) => {
   const [loading, setLoading] = useState(true)
@@ -75,9 +79,42 @@ const Home = ({ marketplace, nft }) => {
           </Row>
         </div>
         : (
-          <main style={{ padding: "1rem 0" }}>
-            <h2>No listed assets</h2>
-          </main>
+          <>
+              <Container fluid className='bkgrud'>
+              </Container>
+            <Container fluid className="Front-container">
+              <Row>
+                <Col xs={1}></Col>
+                <Col className="row-front row-front-left m-auto" xs>
+                  <h1>Discover, collect, and sell extraordinary NFTs</h1>
+                  <br/>
+                  <h5>OpenSea is the world's first and largest NFT marketplace</h5>
+                  <br/>
+                  <br/>
+                  <Row>
+                    <Col><Button variant="secondary" size="lg">Explore</Button></Col>
+                    <Col><Button variant="outline-primary" size='lg'><Link to="../create">Create</Link></Button></Col>
+                  </Row>
+                </Col>
+                <Col className="row-front" xs><Card style={{ width: '79%' }}>
+                  <Card.Img variant="top" src="https://openseauserdata.com/files/otherside_launch_image_rc1.jpeg" />
+                  <Card.Body>
+                    <Card.Text>
+                      <Row>
+                        <Col xs={2}>
+                        <Card.Img className="userimage" src="https://openseauserdata.com/files/otherside_launch_creator_image_rc1.jpeg" />
+                        </Col>
+                        <Col>
+                        Some quick example text to build on the card title and make up the bulk of
+                      the card's content.
+                        </Col>
+                      </Row>
+                    </Card.Text>
+                  </Card.Body>
+                </Card></Col>
+              </Row>
+            </Container>
+          </>
         )}
     </div>
   );
