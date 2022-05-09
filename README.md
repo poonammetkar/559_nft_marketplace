@@ -5,14 +5,16 @@
 **Final Project on NFT MARKETPLACE**
 
 # Team Members:
-
-Trisha Parikh(885965400) - trisha16@csu.fullerton.edu
-
-Poonam Metkar(885870899) - poonammetkar@csu.fullerton.edu
-
+```
 Nitish Lele(885897850) -nitishlele@csu.fullerton.edu
 
 Ayush bhardwaj (885866178) - ayush@csu.fullerton.edu
+
+Poonam Metkar(885870899) - poonammetkar@csu.fullerton.edu
+
+Trisha Parikh(885965400) - trisha16@csu.fullerton.edu
+
+```
 
 # Additional Work
 - Updated Frontend UI
@@ -22,9 +24,9 @@ Ayush bhardwaj (885866178) - ayush@csu.fullerton.edu
 
 
 # Project URL
-OUR WORK : https://github.com/poonammetkar/559_nft_marketplace
+OUR WORK : [https://github.com/poonammetkar/559_nft_marketplace]
 
-ORIGINAL REPO: https://github.com/dappuniversity/nft_marketplace
+ORIGINAL REPO: [https://github.com/dappuniversity/nft_marketplace]
 # How to run the Project?
 **Inital Requirements**
 - Install NodeJS, should work with any node version below 16.5.0
@@ -35,15 +37,15 @@ ORIGINAL REPO: https://github.com/dappuniversity/nft_marketplace
 **1. Clone/Download the repository**
 
 **2. Install the requirements**
-
+```
 $ cd nft_marketplace and 
 $ npm install
-
+```
 **3. Boot up local development blockchain**
-
+```
 $ cd nft_marketplace and 
 $ npx hardhat node
-
+```
 **4. Connect development blockchain accounts to Metamask**
 
 - Copy private key of the addresses and import to Metamask
@@ -55,13 +57,13 @@ $ npx hardhat node
 
 **5. Migrate Smart Contracts**
 
-$ npx hardhat run src/backend/scripts/deploy.js --network localhost
+`$ npx hardhat run src/backend/scripts/deploy.js --network localhost`
 
 **6. Run Tests**
 
-$ npx hardhat test
+`$ npx hardhat test`
 
 
 **7. Launch Frontend**
 
-$ npm run start
+`$ npm run start`
