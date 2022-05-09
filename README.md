@@ -8,7 +8,7 @@
 ```
 Nitish Lele(885897850) -nitishlele@csu.fullerton.edu
 
-Ayush bhardwaj (885866178) - ayush@csu.fullerton.edu
+Ayush Bhardwaj (885866178) - ayush@csu.fullerton.edu
 
 Poonam Metkar(885870899) - poonammetkar@csu.fullerton.edu
 
